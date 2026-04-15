@@ -1,0 +1,1 @@
+# AI-Based-Forest-Fire-Detection-System-using-Satellite-Images-and-CCTV-Images
